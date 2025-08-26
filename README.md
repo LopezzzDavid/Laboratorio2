@@ -47,6 +47,4 @@ Para comprender el flujo «bajo nivel», se accede a Pepper por **SSH** y se des
 
 ---
 
-## Cierre
-
-Tras completar estas tres etapas, el estudiante habrá reconocido las **librerías fundamentales**, sabrá **crear y ajustar** una coreografía en Choregraphe y tendrá la **base práctica** para controlar a Pepper por terminal, sentando las condiciones para trabajos más complejos de percepción, diálogo y navegación.
+Tras completar estas tres etapas, se habrá reconocido las **librerías fundamentales**, se sabrá **crear y ajustar** una coreografía en Choregraphe y se tendrá la **base práctica** para controlar a Pepper por terminal, sentando las condiciones para trabajos más complejos de percepción, diálogo y navegación.
