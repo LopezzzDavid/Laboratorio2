@@ -1,5 +1,3 @@
-README.md 
-
 # Laboratorio 2 - Conociendo a Pepper
 
 ### Grupo 2 - Díaz Suesca, Díaz Vargas, López Maldonado
