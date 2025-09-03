@@ -2,7 +2,7 @@
 
 <h2 align = "center"> Grupo 2 </h2>
 <p align = "center"> Díaz Suesca, Díaz Vargas, López Maldonado </p>
-<br><br>
+<br>
 <p align = "center"> Sistemas Digitales III </p>
 
 
@@ -10,16 +10,18 @@
 # Introducción
 
 <p align = "justify">
-Este documento introduce tres frentes de trabajo para la primera interacción con el robot \*\*Pepper\*\*: (1) una revisión de las librerías esenciales del ecosistema NAOqi, (2) la creación de una coreografía sencilla en \*\*Choregraphe\*\*, y (3) el acceso por \*\*SSH\*\* para programar pasos básicos desde la terminal. El objetivo es que el estudiante comprenda el propósito de cada herramienta y la secuencia general de tareas antes de entrar en el detalle técnico.
+Este documento introduce tres frentes de trabajo para la primera interacción con el robot <strong>Pepper</strong>: (1) una revisión de las librerías esenciales del ecosistema NAOqi, (2) la creación de una coreografía sencilla en <strong>Choregraphe</strong>, y (3) el acceso por <strong>SSH</strong> para programar pasos básicos desde la terminal. El objetivo es que el estudiante comprenda el propósito de cada herramienta y la secuencia general de tareas antes de entrar en el detalle técnico.
 </p>
+
 ---
 
 ## 1\) Librerías clave para el funcionamiento de Pepper
 
 <p align = "justify">
 El stack de Pepper se apoya en NAOqi y en librerías de Python que permiten comunicación, control de movimiento y manejo de datos.
-> \*\*Resultado esperado:\*\* Identificar para qué sirve cada librería y cuándo usarla en un script típico que controle o consulte capacidades de Pepper.
+> <strong>Resultado esperado: </strong> Identificar para qué sirve cada librería y cuándo usarla en un script típico que controle o consulte capacidades de Pepper.
 </p>
+
 ---
 
 ## 2\) Choregraphe: instalación y creación de una coreografía sencilla
